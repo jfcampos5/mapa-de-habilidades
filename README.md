@@ -8,6 +8,10 @@
 Este repositório organiza minhas principais habilidades técnicas, comportamentais e criativas, mostrando como podem ser aplicadas em projetos reais e transformadas em oportunidades de trabalho.
 
 ---
+## 📌 Sobre
+Este projeto foi desenvolvido como parte do **Bootcamp Caixa – Inteligência Artificial na Prática**,promovido pela **DIO (Digital Innovation One)**. Ele reúne minhas principais habilidades técnicas, comportamentais e criativas em um portfólio visual e objetivo.
+
+---
 
 ## 📂 Estrutura do Repositório
 - [docs/pitch_deck.md](docs/pitch_deck.md) → Estrutura completa do Pitch Deck (slide a slide)  
@@ -22,14 +26,15 @@ Este repositório organiza minhas principais habilidades técnicas, comportament
 ---
 
 ## 📊 Visualizações
-### Gráfico de Pizza
-![Gráfico de Pizza](visuals/grafico_pizza.png)
 
-### Gráfico de Barras
-![Gráfico de Barras](visuals/grafico_barras.png)
+### Gráfico de pizza  
+<img src="visuals/grafico_pizza.png" alt="Gráfico de Pizza" width="600"/>  
 
-### Gráfico de Radar
-![Gráfico de Radar](visuals/grafico_radar.png)
+### Gráfico de barras  
+<img src="visuals/grafico_barras.png" alt="Gráfico de Barras" width="600"/>  
+
+### Gráfico de radar  
+<img src="visuals/grafico_radar.png" alt="Gráfico de Radar" width="600"/>  
 
 ---
 
