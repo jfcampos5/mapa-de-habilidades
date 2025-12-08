@@ -4,17 +4,6 @@
 Este repositório reúne todo o material desenvolvido para o meu projeto de **Mapa de Habilidades**.  
 O objetivo é destacar minhas competências **comportamentais, técnicas e criativas**, mostrando como elas podem ser aplicadas em projetos reais e transformadas em oportunidades de trabalho remunerado.
 
-
-## 📂 Estrutura do Repositório
-
-- [docs/pitch_deck.md](docs/pitch_deck.md) → Estrutura completa do Pitch Deck (slide a slide)  
-- [docs/resumo_executivo.md](docs/resumo_executivo.md) → Resumo final com frase de impacto  
-- [docs/quadro_oportunidades.md](docs/quadro_oportunidades.md) → Tabela com atividades e formas de monetização  
-- [visuals/grafico_pizza.png](visuals/grafico_pizza.png) → Gráfico de Pizza das habilidades  
-- [visuals/grafico_barras.png](visuals/grafico_barras.png) → Gráfico de Barras comparativo  
-- [visuals/grafico_radar.png](visuals/grafico_radar.png) → Gráfico de Radar (perfil dinâmico)  
-- [presentations/pitch_deck.pptx](presentations/pitch_deck.pptx) → Apresentação em slides
-
 ---
 
 ## 🌟 Inventário de Habilidades
@@ -79,8 +68,20 @@ Este repositório também contém gráficos que representam a distribuição das
 - Gráfico de **Barras** (compar
 
 -----
-## 🛠️ Como usar este repositório
+## 📂 Estrutura do Repositório
 
+- [docs/pitch_deck.md](docs/pitch_deck.md) → Estrutura completa do Pitch Deck (slide a slide)  
+- [docs/resumo_executivo.md](docs/resumo_executivo.md) → Resumo final com frase de impacto  
+- [docs/quadro_oportunidades.md](docs/quadro_oportunidades.md) → Tabela com atividades e formas de monetização  
+- [visuals/grafico_pizza.png](visuals/grafico_pizza.png) → Gráfico de Pizza das habilidades  
+- [visuals/grafico_barras.png](visuals/grafico_barras.png) → Gráfico de Barras comparativo  
+- [visuals/grafico_radar.png](visuals/grafico_radar.png) → Gráfico de Radar (perfil dinâmico)  
+- [presentations/pitch_deck.pptx](presentations/pitch_deck.pptx) → Apresentação em slides
+
+----
+
+## 🛠️ Como usar este repositório
+````
 Este repositório foi organizado para facilitar a navegação entre os documentos, gráficos e apresentações.  
 Aqui está como você pode utilizá-lo:
 
@@ -101,7 +102,7 @@ Aqui está como você pode utilizá-lo:
 
 4. **Apresentações**  
    - Consulte [`presentations/pitch_deck.pptx`](presentations/pitch_deck.pptx) para a versão em slides (PowerPoint/Gamma).  
-
+````
 ---
 
 ## 🎯 Público-alvo
