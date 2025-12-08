@@ -109,5 +109,28 @@ Aqui está como você pode utilizá-lo:
 Este repositório pode ser útil para:
 - Recrutadores que desejam conhecer meu perfil de habilidades  
 - Mentores e colegas de bootcamp  
-- Parceiros interessados em projetos de tecnologia, IA e criatividade  
+- Parceiros interessados em projetos de tecnologia, IA e criatividade 
+----
+
+## 🔮 Próximos Passos
+````
+Este projeto já apresenta uma estrutura sólida com habilidades, documentos e gráficos.  
+Os próximos passos para evolução incluem:
+
+1. **Expansão das habilidades**  
+   - Adicionar novas competências técnicas e criativas conforme forem desenvolvidas.  
+
+2. **Aprimoramento das visualizações**  
+   - Criar gráficos adicionais (linhas, heatmaps) para representar evolução ao longo do tempo.  
+
+3. **Integração com apresentações online**  
+   - Exportar o pitch deck para plataformas como Gamma ou Canva e incluir links diretos.  
+
+4. **Colaboração**  
+   - Permitir que colegas ou mentores contribuam com sugestões e melhorias via pull requests.  
+
+5. **Documentação contínua**  
+   - Atualizar o resumo executivo e o quadro de oportunidades conforme novas experiências surgirem.  
+````
+----
 
