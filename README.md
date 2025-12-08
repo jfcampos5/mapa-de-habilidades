@@ -5,7 +5,26 @@ Este repositório reúne todo o material desenvolvido para o meu projeto de **Ma
 O objetivo é destacar minhas competências **comportamentais, técnicas e criativas**, mostrando como elas podem ser aplicadas em projetos reais e transformadas em oportunidades de trabalho remunerado.
 
 ---
-
+## 📂 Estrutura do Repositório
+````
+mapa-de-habilidades/
+│
+├── README.md                # Documento principal com visão geral do projeto
+│
+├── docs/                    # Documentação complementar
+│   ├── pitch_deck.md        # Estrutura do pitch deck (slide a slide)
+│   ├── resumo_executivo.md  # Resumo final com frase de impacto
+│   └── quadro_oportunidades.md # Tabela com atividades e monetização
+│
+├── visuals/                 # Gráficos e materiais visuais
+│   ├── grafico_pizza.png
+│   ├── grafico_barras.png
+│   └── grafico_radar.png
+│
+└── presentations/           # Apresentações para Gamma/PowerPoint
+    └── pitch_deck.pptx
+````
+---
 ## 🌟 Inventário de Habilidades
 
 ### Comportamentais
