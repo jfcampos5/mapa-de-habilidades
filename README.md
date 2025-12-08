@@ -77,3 +77,36 @@ O objetivo é destacar minhas competências **comportamentais, técnicas e criat
 Este repositório também contém gráficos que representam a distribuição das minhas habilidades:  
 - Gráfico de **Pizza** (proporção)  
 - Gráfico de **Barras** (compar
+
+-----
+## 🛠️ Como usar este repositório
+
+Este repositório foi organizado para facilitar a navegação entre os documentos, gráficos e apresentações.  
+Aqui está como você pode utilizá-lo:
+
+1. **Explorar habilidades**  
+   - Leia o [README.md](README.md) para entender o inventário completo de habilidades.  
+
+2. **Visualizar documentos**  
+   - Acesse a pasta [`docs/`](docs/) para ver:
+     - [Pitch Deck](docs/pitch_deck.md) → Estrutura slide a slide da apresentação  
+     - [Resumo Executivo](docs/resumo_executivo.md) → Síntese com frase de impacto  
+     - [Quadro de Oportunidades](docs/quadro_oportunidades.md) → Tabela com atividades e formas de monetização  
+
+3. **Ver gráficos visuais**  
+   - Abra a pasta [`visuals/`](visuals/) para visualizar os gráficos:
+     - [Gráfico de Pizza](visuals/grafico_pizza.png)  
+     - [Gráfico de Barras](visuals/grafico_barras.png)  
+     - [Gráfico de Radar](visuals/grafico_radar.png)  
+
+4. **Apresentações**  
+   - Consulte [`presentations/pitch_deck.pptx`](presentations/pitch_deck.pptx) para a versão em slides (PowerPoint/Gamma).  
+
+---
+
+## 🎯 Público-alvo
+Este repositório pode ser útil para:
+- Recrutadores que desejam conhecer meu perfil de habilidades  
+- Mentores e colegas de bootcamp  
+- Parceiros interessados em projetos de tecnologia, IA e criatividade  
+
