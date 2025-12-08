@@ -1,136 +1,80 @@
-# 📌 Mapa de Habilidades – Bootcamp Caixa/DIO
+# 📘 Mapa de Habilidades
+
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Last Commit](https://img.shields.io/github/last-commit/jfcampos5/mapa-de-habilidades)
+![Repo Size](https://img.shields.io/github/repo-size/jfcampos5/mapa-de-habilidades)
 
 ## 🎯 Objetivo
-Este repositório reúne todo o material desenvolvido para o meu projeto de **Mapa de Habilidades**.  
-O objetivo é destacar minhas competências **comportamentais, técnicas e criativas**, mostrando como elas podem ser aplicadas em projetos reais e transformadas em oportunidades de trabalho remunerado.
+Este repositório organiza minhas principais habilidades técnicas, comportamentais e criativas, mostrando como podem ser aplicadas em projetos reais e transformadas em oportunidades de trabalho.
 
 ---
 
-## 🌟 Inventário de Habilidades
-
-### Comportamentais
-- Empatia e respeito  
-- Escuta ativa e apoio emocional  
-- Motivação e incentivo  
-- Paciência  
-- Interpretação de emoções  
-- Organização e disciplina  
-- Persistência  
-- Calma diante de desafios  
-
-### Técnicas
-- Uso avançado de tecnologia  
-- Gestão financeira pessoal e familiar  
-- Declaração de Imposto de Renda PF  
-- Administração de contas digitais  
-- Suporte técnico em aparelhos domésticos  
-- Criação de prompts e uso de IA  
-- Apoio em trabalhos acadêmicos  
-- Compras inteligentes  
-
-### Criativas
-- Costura e artesanato  
-- Cultivo de hortaliças  
-- Criação de projetos e ideias  
-- Escrita de conteúdos  
-- Produção de apresentações visuais  
-- Didática criativa para ensinar  
-
----
-
-## 🚀 Habilidades Prioritárias
-- Uso avançado de tecnologia  
-- Criação de soluções com IA  
-- Compras inteligentes  
-- Solucionar demandas diversas  
-- Calma diante de desafios  
-- Persistência  
-
----
-
-## 💼 Oportunidades de Trabalho
-1. Criação de soluções com IA  
-2. Suporte digital remoto  
-3. Serviços administrativos/burocráticos  
-4. Gestão financeira pessoal/familiar  
-5. Criação de páginas web/sites  
-6. Produção de apresentações visuais  
-7. Consultoria em uso de IA  
-8. Treinamentos digitais  
-9. Artesanato e costura sob encomenda  
-10. Mentoria em habilidades comportamentais  
+## 📂 Estrutura do Repositório
+- [docs/pitch_deck.md](docs/pitch_deck.md) → Estrutura completa do Pitch Deck (slide a slide)  
+- [docs/resumo_executivo.md](docs/resumo_executivo.md) → Resumo final com frase de impacto  
+- [docs/quadro_oportunidades.md](docs/quadro_oportunidades.md) → Tabela com atividades e formas de monetização  
+- [docs/Projeto_Mapa_de_Habilidades.md](docs/Projeto_Mapa_de_Habilidades.md) → Documento consolidado com todas as etapas  
+- [visuals/grafico_pizza.png](visuals/grafico_pizza.png) → Gráfico de Pizza das habilidades  
+- [visuals/grafico_barras.png](visuals/grafico_barras.png) → Gráfico de Barras comparativo  
+- [visuals/grafico_radar.png](visuals/grafico_radar.png) → Gráfico de Radar (perfil dinâmico)  
+- [presentations/pitch_deck.pptx](presentations/pitch_deck.pptx) → Apresentação em slides  
 
 ---
 
 ## 📊 Visualizações
-Este repositório também contém gráficos que representam a distribuição das minhas habilidades:  
-- Gráfico de **Pizza** (proporção)  
-- Gráfico de **Barras** (compar
+### Gráfico de Pizza
+![Gráfico de Pizza](visuals/grafico_pizza.png)
 
------
-## 📂 Estrutura do Repositório
+### Gráfico de Barras
+![Gráfico de Barras](visuals/grafico_barras.png)
 
-- [docs/pitch_deck.md](docs/pitch_deck.md) → Estrutura completa do Pitch Deck (slide a slide)  
-- [docs/resumo_executivo.md](docs/resumo_executivo.md) → Resumo final com frase de impacto  
-- [docs/quadro_oportunidades.md](docs/quadro_oportunidades.md) → Tabela com atividades e formas de monetização  
-- [visuals/grafico_pizza.png](visuals/grafico_pizza.png) → Gráfico de Pizza das habilidades  
-- [visuals/grafico_barras.png](visuals/grafico_barras.png) → Gráfico de Barras comparativo  
-- [visuals/grafico_radar.png](visuals/grafico_radar.png) → Gráfico de Radar (perfil dinâmico)  
-- [presentations/pitch_deck.pptx](presentations/pitch_deck.pptx) → Apresentação em slides
+### Gráfico de Radar
+![Gráfico de Radar](visuals/grafico_radar.png)
 
-----
-
-## 🛠️ Como usar este repositório
-````
-Este repositório foi organizado para facilitar a navegação entre os documentos, gráficos e apresentações.  
-Aqui está como você pode utilizá-lo:
-
-1. **Explorar habilidades**  
-   - Leia o [README.md](README.md) para entender o inventário completo de habilidades.  
-
-2. **Visualizar documentos**  
-   - Acesse a pasta [`docs/`](docs/) para ver:
-     - [Pitch Deck](docs/pitch_deck.md) → Estrutura slide a slide da apresentação  
-     - [Resumo Executivo](docs/resumo_executivo.md) → Síntese com frase de impacto  
-     - [Quadro de Oportunidades](docs/quadro_oportunidades.md) → Tabela com atividades e formas de monetização  
-
-3. **Ver gráficos visuais**  
-   - Abra a pasta [`visuals/`](visuals/) para visualizar os gráficos:
-     - [Gráfico de Pizza](visuals/grafico_pizza.png)  
-     - [Gráfico de Barras](visuals/grafico_barras.png)  
-     - [Gráfico de Radar](visuals/grafico_radar.png)  
-
-4. **Apresentações**  
-   - Consulte [`presentations/pitch_deck.pptx`](presentations/pitch_deck.pptx) para a versão em slides (PowerPoint/Gamma).  
-````
 ---
 
-## 🎯 Público-alvo
-Este repositório pode ser útil para:
-- Recrutadores que desejam conhecer meu perfil de habilidades  
-- Mentores e colegas de bootcamp  
-- Parceiros interessados em projetos de tecnologia, IA e criatividade 
-----
+## 💼 Serviços e Oportunidades
+- Criação de soluções com IA  
+- Suporte digital remoto  
+- Serviços administrativos e burocráticos  
+- Gestão financeira pessoal/familiar  
+- Criação de páginas web/sites  
+- Produção de apresentações visuais  
+- Consultoria em uso de IA  
+- Treinamentos digitais  
+- Artesanato e costura sob encomenda  
+- Mentoria em habilidades comportamentais 
 
-## 🔮 Próximos Passos
-````
-Este projeto já apresenta uma estrutura sólida com habilidades, documentos e gráficos.  
-Os próximos passos para evolução incluem:
+---
 
-1. **Expansão das habilidades**  
-   - Adicionar novas competências técnicas e criativas conforme forem desenvolvidas.  
+## 📈 Caminhos de Monetização
+- Oferecer serviços em plataformas de freelas (Workana, 99Freelas, Fiverr, GetNinjas)  
+- Criar conteúdo gratuito em redes sociais (Instagram, TikTok, LinkedIn, YouTube)  
+- Montar portfólio simples no GitHub com docs e visuals  
+- Fazer parcerias locais com pequenos negócios  
+- Dar aulas ou mentorias online/presenciais  
 
-2. **Aprimoramento das visualizações**  
-   - Criar gráficos adicionais (linhas, heatmaps) para representar evolução ao longo do tempo.  
+---
 
-3. **Integração com apresentações online**  
-   - Exportar o pitch deck para plataformas como Gamma ou Canva e incluir links diretos.  
+## 🛠️ Como usar este repositório
+1. Explorar habilidades no README.md  
+2. Visualizar documentos em `docs/`  
+3. Ver gráficos em `visuals/`  
+4. Consultar apresentações em `presentations/`  
 
-4. **Colaboração**  
-   - Permitir que colegas ou mentores contribuam com sugestões e melhorias via pull requests.  
+---
 
-5. **Documentação contínua**  
-   - Atualizar o resumo executivo e o quadro de oportunidades conforme novas experiências surgirem.  
-````
-----
+## 📜 Licença
+Este projeto está licenciado sob a [MIT License](LICENSE).
 
+---
+
+## 👩‍💻 Contato
+- LinkedIn: [linkedin.com/in/seuusuario](https://www.linkedin.com/in/joelma-campos-50a7277b)  
+- GitHub: [github.com/jfcampos5](https://github.com/jfcampos5)  
+- E-mail: jfcampos5@hotmail.com  
+
+---
+
+## 🌍 English Summary (optional)
+This repository organizes my skills into a clear portfolio with documents, visuals, and a pitch deck. It highlights opportunities for monetization and professional growth, making it easy for recruiters and collaborators to understand my profile.
