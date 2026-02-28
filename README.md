@@ -87,7 +87,7 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
 
-## 🌍 English Summary (optional)
+## 🌍 English Summary
 This repository organizes my skills into a clear portfolio with documents, visuals, and a pitch deck. It highlights opportunities for monetization and professional growth, making it easy for recruiters and collaborators to understand my profile.
 
 ---
